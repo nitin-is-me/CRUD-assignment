@@ -1,6 +1,6 @@
 ## CRUD Assignment
 
-A full-stack CRUD application built to manage users. This project demonstrates a clean UI using React & Tailwind CSS, a robust backend with Node.js & Express, and automated email notifications using Nodemailer.
+A full-stack CRUD application built to manage users. This project demonstrates a clean UI using React & Tailwind CSS, a robust backend with Node.js & Express, and automated email notifications using Nodemailer. The project is hosted live [here](https://crud-hosted-frontend.vercel.app/) (it might be a little bit slow because it's hosted on the free vercel tier).
 
 ### Features
 1. User Management (CRUD):
