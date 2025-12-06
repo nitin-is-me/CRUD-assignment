@@ -2,6 +2,11 @@
 
 A full-stack CRUD application built to manage users. This project demonstrates a clean UI using React & Tailwind CSS, a robust backend with Node.js & Express, and automated email notifications using Nodemailer. The project is hosted live [here](https://crud-hosted-frontend.vercel.app/) (it might be a little bit slow because it's hosted on the free vercel tier).
 
+Here's the demo video of the project:
+
+[7706.webm](https://github.com/user-attachments/assets/8476b9ab-5186-4c9d-a079-d949466f355a)
+
+
 ### Features
 1. User Management (CRUD):
     - Create: Add new users with Name, Email, and State.
